@@ -27,7 +27,6 @@ const CyberBackground = () => {
     const [buildings, setBuildings] = useState<Building[]>([]);
     const [particles, setParticles] = useState<Particle[]>([]);
     const [dataStreams, setDataStreams] = useState<DataStream[]>([]);
-    const [glitchActive, setGlitchActive] = useState(false);
     const audioContextRef = useRef<AudioContext | null>(null);
 
     // Initialize Web Audio API
