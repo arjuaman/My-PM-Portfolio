@@ -34,63 +34,12 @@ const CyberBackground = () => {
     useEffect(() => {
         audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)();
 
-        // Play ambient background hum
-        playAmbientSound();
-
-        // Random glitch effects
-        const glitchInterval = setInterval(() => {
-            if (Math.random() > 0.7) {
-                setGlitchActive(true);
-                playGlitchSound();
-                setTimeout(() => setGlitchActive(false), 150);
-            }
-        }, 5000);
-
         return () => {
-            clearInterval(glitchInterval);
             if (audioContextRef.current) {
                 audioContextRef.current.close();
             }
         };
     }, []);
-
-    // Ambient background sound (low frequency hum)
-    const playAmbientSound = () => {
-        if (!audioContextRef.current) return;
-
-        const oscillator = audioContextRef.current.createOscillator();
-        const gainNode = audioContextRef.current.createGain();
-
-        oscillator.type = 'sine';
-        oscillator.frequency.setValueAtTime(60, audioContextRef.current.currentTime); // Low hum
-        gainNode.gain.setValueAtTime(0.02, audioContextRef.current.currentTime); // Very quiet
-
-        oscillator.connect(gainNode);
-        gainNode.connect(audioContextRef.current.destination);
-
-        oscillator.start();
-    };
-
-    // Glitch sound effect
-    const playGlitchSound = () => {
-        if (!audioContextRef.current) return;
-
-        const oscillator = audioContextRef.current.createOscillator();
-        const gainNode = audioContextRef.current.createGain();
-
-        oscillator.type = 'square';
-        oscillator.frequency.setValueAtTime(200, audioContextRef.current.currentTime);
-        oscillator.frequency.exponentialRampToValueAtTime(50, audioContextRef.current.currentTime + 0.1);
-
-        gainNode.gain.setValueAtTime(0.1, audioContextRef.current.currentTime);
-        gainNode.gain.exponentialRampToValueAtTime(0.01, audioContextRef.current.currentTime + 0.15);
-
-        oscillator.connect(gainNode);
-        gainNode.connect(audioContextRef.current.destination);
-
-        oscillator.start();
-        oscillator.stop(audioContextRef.current.currentTime + 0.15);
-    };
 
     // Hover sound effect for interactive elements
     const playHoverSound = () => {
