@@ -1,0 +1,579 @@
+Arju Aman
+Email
+
+:
+
+p24arju@iima.ac.in
+
+Roll No.
+
+:
+
+PGPGC202400117
+
+Mobile
+
+:
+
+9006415009
+
+Age
+
+:
+
+25
+
+ACADEMIC DETAILS
+COURSE
+
+DISCIPLINE
+
+INSTITUTE/COLLEGE
+
+BOARD/UNIVERSITY
+
+SCORE
+
+YEAR
+
+BTECH
+
+Electronics and
+Communication
+Engineering
+
+Indian Institute of Information
+Technology Bhagalpur
+
+Indian Institute of Information
+Technology Bhagalpur
+
+84.8%
+
+2021
+
+Class XII
+
+-
+
+Kendriya Vidyalaya Kankarbagh
+Patna Bihar
+
+CBSE
+
+89%
+
+2016
+
+Class X
+
+-
+
+Kendriya Vidyalaya Kankarbagh
+Patna Bihar
+
+CBSE
+
+10/10
+
+2014
+
+ACADEMICS
+9+/10 GPA in 32/57 subjects
+9+/10 GPA in 56% of total subjects
+A1 in 3/6 subjects.
+97/100 in Chemistry.
+10/10 in 5/5 subjects
+
+2021
+2021
+2016
+2016
+2014
+
+SUMMER INTERNSHIP / WORK EXPERIENCE
+Game Developer-Research (Tier 1), Ingenuity Gaming - Full Time Job
+
+May 21 - Sep 23(27 mo)
+
+I was the given the "High Roller Award" for exceptional performance in Jun'22-Dec'22.
+My Role: I started as Associate Game Developer Trainee, then was promoted to Associate Game Developer,
+followed by Game Developer - Research (Tier 1) 1/3 among 150+ developers and 500+ employees to be given
+the role of Game Developer - Research (Tier 1)
+Product/Business Impact: Developed 5+ online slot games | Players across 42+ countries in the world currently
+playing these games 32+ languages & 6+ international jurisdictions supported, with 30+ currencies including
+cryptocurrencies Offered iOS, Android & Windows (3 platforms) compatibility in games, developed and
+playable on PC, Mobile Landscape & Portrait Average of 7+ features per game developed | Loved and played
+across 66+/165 casinos around the world
+Product/Business Excellence: 1/10 in 500+ members selected in the R&D team on performance basis, and
+worked on upgrading the online slot games' framework and other processes Created 10+ high-level and lowlevel design documents for ease of development and better understanding 2 previously shelved projects were
+retested, improved, and released successfully within new timeframes
+Appreciations: 1/20 in 500+ members to receive the High Roller Award for outstanding contribution &
+business impact Achieved 100% of the goals and expectations set, earning the highest grade 'Excellent' in
+annual appraisal 30+ functional and cosmetic change requests proposed by various clients were successfully
+implemented & received appreciation for the same
+Leadership: Coordinated 50+ code drop activities & PoC between 3 teams (dev, test and art) to deliver new
+software releases to clients Provided 20+ members of the respective teams with the project-specific knowledge
+transfers Pitched to internal and external stakeholders, and led the efforts to make the code platform-agnostic,
+preventing client lock-in
+Technical Skills: Utilized TypeScript, JavaScript, ReactJS, PixiJS, HTML5, CSS3 and Postman, on MVC
+architecture Proficiency in collaborative working tools and version control systems like Github, Bitbucket and
+SVN
+Engagements: Addressed user pain points and resolved bugs through daily interaction with clients from
+Ukraine and UK Created the training, mentorship, and reintegration plans of 3+ employees
+Others: Created 10+ high-level and low-level design documents for ease of development and better
+understanding Served as the POC and as the SME for the slot games and wrapper designed for the respective
+clients Managed and coordinated the development lifecycle of art gathering, development, documentation and
+maintenance Received appreciation from Online Gaming Business Unit Head for fixing critical defects within
+deadlines Assisted in training and mentoring cycles of new joiners on project-related training and workstation
+setup
+1. Developed and executed comprehensive training, mentorship, and reintegration plans for 3 employees on
+
+2022
+2021
+
+2022
+
+2022
+
+2022
+
+2022
+
+2022
+
+2022
+2023
+
+2023
+
+PIP(Performance Improvement Plan). 2. Provided hands-on mentorship and daily progress monitoring,
+ensuring consistent updates and feedback. 3. Reported regularly to my manager on their progress, contributing
+to a 100% successful reintegration rate and improved team performance.
+1. Created over 10 high-level and low-level design documents, including GDDs (Game Development
+Documents), PRDs (Performance Review and Development), and KBAs (Knowledge Based Articles). 2.
+Facilitated development and ensured compliance with regulations through detailed documentation,
+contributing to a 12% increase in project efficiency. 3. Enhanced overall understanding for over 40 internal
+team members (development, QA, server) and over 25 external client team members through comprehensive
+and clear documentation.
+1. Provided 20+ team members with project-specific knowledge transfers, including Knowledge Based
+Articles (KBAs). 2. Accumulated a total of over 120 hours of knowledge transfer sessions, combining both
+KBAs and non-KBAs.
+1. Successfully implemented over 100 change requests (CRs) over the entire tenure, including 25+ functional
+and cosmetic requests per project, particularly on the wrapper developed using React and JavaScript. 2.
+Received appreciation from various clients for the enhancements made through these change requests.
+1. Served as the point of contact (POC) and subject matter expert (SME) for slot games and the in-house
+wrapper developed using React and JavaScript, which supported over 10 clients. 2. The React/JS-based
+wrapper was the company's first in-house development and has the potential to serve as a foundational base for
+wrappers used by over 10 future clients.
+1. Offered compatibility across 3 platforms—iOS, Android, and Windows—ensuring games were playable on
+PC, Mobile Landscape, and Portrait, reaching an audience of over a million users. 2. Ensured the UI/UX was
+optimized for all major devices and platforms, including smartphones, tablets, and desktop computers, catering
+to an extensive range of user preferences and screen sizes.
+1. Revived and improved 2 previously shelved projects that had been on hold since their alpha release a year
+ago, successfully retesting and releasing them within new timeframes. 2. The successful release of these
+projects generated over £50K in revenue for the company.
+1. Addressed user pain points and resolved over 50 bugs through daily interactions with clients from Ukraine
+and the UK, focusing on issues reported from user experiences. 2. Conducted daily meetings during the
+maintenance phase, involving 15+ team members, to understand and prioritize bugs based on their impact,
+ensuring timely fixes.
+Software Engineer 1, Helmerich And Payne Technologies Private Limited - Full Time Job
+
+2023
+
+2023
+
+2023
+
+2023
+
+2023
+
+2023
+
+2023
+
+Sep 23 - May 24(8 mo)
+
+• 2+ rigs around the world will be using the web app feature whose development I contributed in • Currently
+2023
+its Beta version is in production and customers are using it on trial basis. It has potential to serve more than
+200 active customers. • For the same product, I contributed by raising 10+ bugs in the developer testing phase
+as well as 5+ bugs as part of the testing team. • During the development life cycle of the project, I've worked
+on mockup creation, documentation, development and testing • Provided 4+ members of the team with the
+project-specific knowledge transfers during my tenure • Created 3+ high-level and low-level design documents
+for ease of development and better understanding of future new joiners to the team • Contributed in MVVM
+Architecture, utilizing JavaScript, VueJS, HTML5, CSS3, Figma & Postman • Proficiency in collaborative
+tools and version control systems like Github, Jira, Confluence and Bitbucket
+Intern, Electronics & ICT Academy, IIT Guwahati - Internship
+
+May 19 - Jul 19(1 mo)
+
+The motivation of this algorithm is to solve the problem of saving or wirelessly transmitting ECG data, which
+tends to have a high sampling rate. By compressing the signal, more data can be stored or wirelessly
+transferred using less power.
+The wavelet transform has emerged over recent years as a powerful time-frequency analysis and signal coding
+tool favored for the interrogation of complex non stationary signals.
+With this project we achieved average compression ratio of 12.8 with acceptable signal preservation.
+
+2019
+
+2019
+2019
+
+PROJECTS
+
+POSITION OF RESPONSIBILITY
+Training and Placement Cell Coordinator, Indian Institute of Information Technology Bhagalpur
+
+Oct 19 - May 21
+
+Arju Aman was one of the four Training & Placement Cell coordinators at IIIT Bhagalpur from 1st Oct '2019
+to 1st May'21
+He helped the team to coordinate the college's placement related activities by connecting with the hiring
+representatives from various IT leaders and establishing a channel of communication for a long time trust in
+our students and institute.
+We were able to achieve 100% placement, even though it was the first ever batch from the college, and amidst
+Covid-19.
+• Elected as 1/4 Training and Placement Cell Coordinators at IIIT Bhagalpur from 67 students • Oversaw
+100% placement of 60+ students of 2021 batch despite COVID-19 induced impediments • Brought in 62
+offers from recruiters negotiating highest offer of 30 LPA & an average of 8.50 LPA • Connected with hiring
+representatives of 35+ companies, establishing a channel of communication • Coordinated crash courses,
+refresher sessions, conducted mock interviews to prepare subscribers
+
+2021
+2021
+
+2021
+2021
+
+Cell Head, Web Cell of Media Cell of IIMA
+
+Aug 24 - Aug 24
+
+Selected as the cell head among 21 applicants for the Web Cell of Media Cell IIMA
+
+2024
+
+EXTRA CURRICULAR ACTIVITIES
+Achieved 3rd position in school football competition.
+Winner of the Volleyball Men's event (1/13 players) at Yalgaar (Official 1s vs 2s sports competition)
+Winner of FIFA event (1/7 players) at Yalgaar (Official 1s vs 2s sports competition)
+Secured 3rd place in a team of 5 among 8 teams in a Flatlay Photography Workshop conducted by
+Perspectives, the photography club of IIMA.
+
+2014
+2024
+2024
+2024
+
+AWARDS AND RECOGNITIONS
+
+CERTIFICATIONS
+CERTIFICATION
+
+CERTIFYING AUTHORITY
+
+Deep Learning Specialization
+
+Coursera & DeepLearning.AI
+
+Python for Everybody Specialization
+
+Coursera & University Of
+Michigan
+
+Sequence Models
+
+Coursera
+
+Applied Plotting, Charting & Data
+Representation in Python
+
+Coursera
+
+Predictive Modelling with Azure
+Machine Learning Studio
+
+Coursera
+
+Convolutional Neural Networks
+
+Coursera
+
+Exploratory Data Analysis with
+Seaborn
+
+Coursera
+
+Intro to Time Series Analysis in R
+
+Coursera
+
+Divide and Conquer, Sorting and
+Searching, and Randomized
+Algorithms
+
+Coursera
+
+DESCRIPTION
+
+Deep Learning Specialization
+
+Dec 20
+
+Completed this specialization which had five courses, those being: Structuring Machine Learning Projects,
+Convolutional Neural Networks, Neural Networks and Deep Learning, Improving Deep Neural Networks:
+Hyperparameter Tuning, Regularization and Optimization, and Sequence Models.
+Learnt to build various neural network architectures like Convolutional Neural Networks, Recurrent Neural
+Networks, Transformers and LSTMs.
+I learned how to improve the performance of Neural Nets using techniques like Dropout, BatchNorm and
+Xavier/He initialization.
+I tackled real-world problems in speech recognition, music synthesis, machine translation, and natural
+language processing by combining theory with practical implementation using Python and TensorFlow.
+Successfully completed 5-courses with respective grades of 84.16%, 97.25%, 96.50%, 92.0% and 98%
+• Average grade of 93.58% in a specialization of 5-courses in Deep Learning by DeepLearning.AI
+
+2020
+
+Python for Everybody Specialization
+
+May 20
+
+Completed five courses under this specialization, namely: Programming for Everybody(Getting Started with
+Python), Python Data Structures, Using Python to Access Web Data, Using Databases with Python, Capstone:
+Retrieving, Processing, and Visualizing Data with Python
+I leveraged the skills to dive deeper into fundamental programming concepts of Python, including data
+structures, networked application program interfaces, and databases.
+In the Capstone Project, I used the technologies learned throughout the specialization to design and create an
+application for data retrieval, processing, and visualization.
+Successfully completed 5-courses with respective grades 99.08%, 96.18%, 100%, 80.76% & 96.12%
+• Average grade of 94.42% in a specialization of 5-courses in Python Programming by Coursera
+
+2020
+
+Sequence Models
+
+Dec 20
+
+Achieved a grade of 98% in a 37 hour long course on "Sequence Models" offered by Coursera and authorized
+
+2020
+
+2020
+2020
+2020
+2020
+2020
+
+2020
+2020
+2020
+2020
+
+by DeepLearning.AI
+Applied Plotting, Charting & Data Representation in Python
+
+May 20
+
+Achieved a grade of 88.18% in a 24 hour long course on "Applied Plotting, Charting & Data Representation in 2020
+Python" offered by Coursera and authorized by University Of Michigan
+Predictive Modelling with Azure Machine Learning Studio
+
+Nov 20
+
+Achieved a grade of 100% in a course on "Predictive Modelling with Azure Machine Learning Studio" offered 2020
+by Coursera Project Network
+Convolutional Neural Networks
+
+Sep 20
+
+Achieved a grade of 97.25% in a 35 hour long course on "Convolutional Neural Networks" offered by
+Coursera and authorized by DeepLearning.Ai
+
+2020
+
+Exploratory Data Analysis with Seaborn
+
+Nov 20
+
+Achieved a grade of 100% in a course on "Exploratory Data Analysis with Seaborn" offered by Coursera
+Project Network
+
+2020
+
+Intro to Time Series Analysis in R
+
+Nov 20
+
+Achieved a grade of 96.87% in a course on "Intro to Time Series Analysis in R" offered by Coursera Project
+Network
+
+2020
+
+Divide and Conquer, Sorting and Searching, and Randomized Algorithms
+
+May 20
+
+Achieved a grade of 95.10% in a 16 hour long course on "Divide and Conquer, Sorting and Searching, and
+Randomized Algorithms" offered by Coursera and authorized by Stanford
+
+2020
+
+COMPETITIONS
+International Mathematics Olympiad | 1
+
+Jan 12
+
+Achieved a School Rank 1 in 5th International Mathematics Olympiad organized by Science Olympiad
+Foundation on December 2011.
+Achieved an International Rank 2060 in 5th International Mathematics Olympiad organized by Science
+Olympiad Foundation on December 2011.
+
+2012
+
+PM Inside | Qualified 1st round
+
+Jul 24
+
+1/30 (out of 94 teams) involving 261 participants to clear the preliminary round of the PM Inside Case
+Competition conducted as a part of WIMWI Product Weekend by the ProdMan Club of IIM Ahmedabad
+
+2024
+
+2012
+
+CONFERENCES AND WORKSHOPS
+
+TEST SCORES
+TEST NAME
+
+DATE OF EXAM
+
+SCORE
+
+CAT 2023
+
+Nov 26, 2023
+
+75.20
+
+CAT 2023
+
+Nov 26, 2023
+
+CAT 2023 98.91%iler.
+Scored 75.20 marks in CAT 2023.
+Converted IIM Bangalore call for offer in Post Graduate Programme in Management (2024-26).
+Converted IIM Bangalore call for offer in Post Graduate Programme in Business analytics (2024-26)
+(PGPBA).
+Converted IIM Calcutta call for offer in Post Graduate Programme in Management (2024-26).
+Converted IIM Lucknow call for offer in Post Graduate Programme in Management (2024-26).
+Converted IIM Indore call for offer in Post Graduate Programme in Management (2024-26).
+Converted IIM Kozhikode call for offer in Post Graduate Programme in Management (2024-26).
+Converted FMS Delhi call for offer in Post Graduate Programme in Management (2024-26).
+
+2023
+2023
+2024
+2024
+2024
+2024
+2024
+2024
+2024
+
+PATENTS
+
+PUBLICATIONS
+An Efficient Bar/QR Code Recognition System for Consumer Service Applications
+
+Aug 20
+
+Efficient bar code recognition system is crucial in a world where trade has evolved to quick commerce. We
+
+2020
+
+wanted to leverage image processing technology learned in our class to create a solution that could enhance
+inventory control, and provide immediate, reliable information.
+This paper proposes a method for combined bar code and QR code recognition.
+The motivation is to have improved customer service in the consumer electronics industry. Need for accurate
+information in production, storage, and supply chains drove this project.
+It automatically decodes the code and displays complete product information.
+it's developed in Python using OpenCV library (external libraries needed for decoding)
+It was tested on a big database of items with assigned codes, with real-time image capture and processing.
+It showed an accuracy of 100%
+It has a very fast execution time of 0.25 seconds.
+It has a future in prototyping on micro-controllers for a practical bar code recognition system.
+This publication comes under the domain of "Image processing"
+This publication was added to the prestigious IEEE on 7th Aug 2020
+
+2020
+2020
+2020
+2020
+2020
+2020
+2020
+2020
+2020
+2020
+
+Detection of Malaria by Using a CNN Model
+
+May 23
+
+This publication was added to prestigious "Springer" on 31st May 2023.
+This publication comes under the domain of "Deep Learning"
+Malaria is a dangerous disease caused by Plasmodium parasites transmitted by mosquito bites, with over 200
+million people suffering worldwide and 200,000 deaths.
+Diagnosis is traditionally done by microscopic blood smear analysis by trained technicians.
+Traditional methods are time-consuming and prone to human error, which could be fatal to human life.
+Our work proposes a fully automated algorithm using Convolutional Neural Networks (CNN) to identify
+malaria from blood smear images.
+The dataset contains a total of 27,558 cell images with equal instances of parasitized and uninfected cells.
+The dataset contains all the images in a directory cell images. These images are categorized in 2 parts,
+Parasitized and Uninfected. Both directories contain 13,780 images according to their category. We have taken
+11,024 of each category to train our model (22048 training images) and 2,255 of each category for validation
+(5510 validating images).
+We split our data set into 80% training and 20% validation.
+One of the major constraints during the implementation of the project was the geographical limitation of
+images. The images are from Chittagong Medical College Hospital Bangladesh, which might have different
+climatic conditions than any other place. Therefore there is a chance that findings are not geographically
+independent.
+Achieved 96.39% accuracy with 95% precision and 98% recall in detecting malaria parasites, with potential
+for further improvement with larger datasets. The F1 score is 96%.
+Our proposed model performs better than all the traditional Machine Learning algorithms like Ada Boost,
+Decision Tree, KNN etc
+
+2023
+2023
+2023
+2023
+2023
+2023
+2023
+2023
+
+2023
+2023
+
+2023
+2023
+
+SCHOLARSHIPS
+
+VOLUNTEER EXPERIENCE
+SMILEVolunteer
+
+Aug 24 - Aug 24
+
+Volunteered for a Science Project workshop session for 20+ underprivileged students in SMILE ACTIVITY
+CAMP
+Volunteered for a Mini MBA program workshop session for 20+ underprivileged students in SMILE
+ACTIVITY CAMP
+
+2024
+2024
+
+
