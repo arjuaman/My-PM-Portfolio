@@ -1,73 +1,134 @@
-# React + TypeScript + Vite
+# Cyberpunk PM Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stunning cyberpunk-themed portfolio website showcasing Product Management experience, skills, and achievements.
 
-Currently, two official plugins are available:
+![Portfolio Preview](https://img.shields.io/badge/Status-Live-success)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+**Deployed on Render**: [Coming Soon]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- **Cyberpunk Aesthetic**: Neon colors, custom cursor, glitch effects, and animated background
+- **Responsive Design**: Full-width layout optimized for all screen sizes
+- **7 Navigation Sections**:
+  - 🏠 Home - Profile overview with education
+  - 💼 Experience - 8 detailed work experiences
+  - ⚡ Skills - 12 technical and soft skills
+  - 🎓 Certifications - 10+ professional certifications
+  - 🏆 Achievements - Publications, awards, projects, volunteer work
+  - 🎮 Funzone - Interactive games (9x9 Sudoku, Wordle)
+  - 📧 Contact - Get in touch
+- **Interactive Elements**: Sound effects, hover animations, smooth transitions
+- **Games**: Classic 9x9 Sudoku and tech-themed Wordle
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🛠️ Tech Stack
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- **Framework**: React 18 + TypeScript
+- **Build Tool**: Vite 6
+- **Styling**: Tailwind CSS
+- **Animations**: Framer Motion
+- **Audio**: Web Audio API
+- **Deployment**: Render
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## 📦 Installation
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+# Clone the repository
+git clone https://github.com/arjuaman/My-PM-Portfolio.git
+
+# Navigate to project directory
+cd My-PM-Portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## 🚀 Deployment
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+This project is configured for deployment on Render. See [RENDER_DEPLOYMENT.md](./RENDER_DEPLOYMENT.md) for detailed instructions.
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+**Quick Deploy**:
+1. Push to GitHub
+2. Connect to Render
+3. Set build command: `npm run build`
+4. Set publish directory: `dist`
+
+## 📁 Project Structure
+
 ```
+├── public/              # Static assets
+│   └── assets/         # Images and media
+├── src/
+│   ├── components/     # React components
+│   ├── data/          # Profile and content data
+│   ├── hooks/         # Custom React hooks
+│   ├── App.tsx        # Main application
+│   ├── main.tsx       # Entry point
+│   └── index.css      # Global styles
+├── dist/              # Production build
+└── package.json       # Dependencies
+```
+
+## 🎨 Customization
+
+### Update Profile Data
+Edit `src/data/profile.ts` to update:
+- Personal information
+- Work experience
+- Education
+- Skills
+- Certifications
+- Achievements
+
+### Modify Theme Colors
+Edit `tailwind.config.js` to customize the cyberpunk color palette.
+
+### Add/Remove Sections
+Modify `src/App.tsx` and `src/components/CyberNav.tsx`.
+
+## 🎮 Games
+
+### Sudoku
+- Classic 9x9 grid
+- Medium difficulty
+- Sound effects for correct/incorrect moves
+
+### Wordle
+- 5-letter tech-themed words
+- 6 attempts
+- Color-coded feedback
+
+## 📄 License
+
+MIT License - feel free to use this project for your own portfolio!
+
+## 👤 Author
+
+**Arju Aman**
+- Product Manager | Ex-Game Dev
+- IIM Ahmedabad MBA Candidate
+- Email: p24arju@iima.ac.in
+- Location: Ahmedabad, India
+
+## 🙏 Acknowledgments
+
+- Cyberpunk 2077 for design inspiration
+- React and Vite communities
+- Tailwind CSS team
+
+---
+
+**Built with ❤️ and lots of ☕**
