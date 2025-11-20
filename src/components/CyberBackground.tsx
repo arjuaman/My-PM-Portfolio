@@ -127,7 +127,7 @@ const CyberBackground = () => {
     }, []);
 
     return (
-        <div className={`cyber-bg ${glitchActive ? 'animate-glitch' : ''}`}>
+        <div className="cyber-bg">
             {/* Cyberpunk Moon */}
             <div className="fixed top-[10%] right-[15%] w-64 h-64 md:w-96 md:h-96 pointer-events-none z-0">
                 {/* Moon Core */}
